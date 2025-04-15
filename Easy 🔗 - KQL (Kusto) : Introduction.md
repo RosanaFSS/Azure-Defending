@@ -1,7 +1,7 @@
 <p align="center">April 15, 2025<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{344}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.<br><br>
-<img width="300px" src="" alt="Your Image Badge"><br>
+<img width="300px" src="https://github.com/user-attachments/assets/5c50b586-977c-4e21-8909-41e77268da20" alt="Your Image Badge"><br>
 <img width="200px" src="https://github.com/user-attachments/assets/a831d20b-7256-48cf-8fe9-ad7c930d41e3"></p>
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{KQL (Kusto): Introduction}}$$</h1>
 <p align="center"><em>This room introduces you to Kusto Query Language and provides an overview of Microsoft Sentinel.</em>.<br>
@@ -9,7 +9,7 @@ It is classified as an easy walkthrough.<br>
 You can join it for 🆓 using your own virtual machine with openVPN or TryHackMe´s AttackBox if you are subscribed.<br>
 Can be accessed clicking  <a href="https://tryhackme.com/room/kqlkustointroduction">here</a>.</p>
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/8c473b43-224e-4c60-9727-df8c51d761fa"> </p>
+<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/3173f362-97ba-4ed0-94d9-db155ceea96e"> </p>
 
 <br>
 <br>
@@ -104,6 +104,29 @@ Imagine being able to:<br>
 >> <strong><code>Heartbeat</code></strong><br>
 <p></p>
 
+
+<br>
+
+![image](https://github.com/user-attachments/assets/47fd400b-c940-410e-82db-a8f34b62322b)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/602a4857-a1bb-4ac3-8c3d-24a1fc6ff168)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/9f584bfa-4d3e-4670-bf15-799f7f1e36e3)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8ba95c66-c344-48e5-b65a-933b715d8202)
+
+
+
+
+
 <br>
 <br>
 
@@ -131,6 +154,24 @@ Imagine being able to:<br>
 >> <strong><code>JBOX00$</code></strong><br>
 <p></p>
 
+<br>
+
+![image](https://github.com/user-attachments/assets/1394506e-2bfa-45db-87b1-a4674a1d48f9)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/95da9b56-66fa-4f19-9fcb-a74d466faddb)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/434b7f30-2c1d-4dc6-8d15-8484b56b42a3)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/422c5ad5-b0e9-4500-9c34-7d2f1b3fe7c1)
+
+
+
 
 <br>
 <br>
@@ -154,6 +195,16 @@ Imagine being able to:<br>
 <p></p>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/c3ed4889-105d-468f-b0bd-3514fb9a0137)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/052aa91c-03da-4629-9dbd-b7fbb40ae4db)
+
+
+
+<br>
 <br>
 
 <h2>Task 6 . KQL Use Cases</h2>
@@ -163,6 +214,47 @@ Imagine being able to:<br>
 <br>
 
 <h3>Real-Life Example</h3>
+<p>Scenario: Today at the office, you need to identify failed login attempts for a specific user account to investigate potential unauthorized access.<br><br>
+
+Solution: To identify failed login attempts, you can search the SecurityEvent table for failed login attempts using the query below. This will find all failed login attempts across your organization. You can modify the time range to expand your search.</p>
+
+<br>
+
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 6.1. <em>What is the name of the table queried in our example query?</em>Hint : <em>Run the example query and expand the details to see the Activity entry.</em><br><a id='6.1'></a>
+>> <strong><code>An account failed to log on</code></strong><br>
+<p></p>
+
+![image](https://github.com/user-attachments/assets/b142d512-8fa7-4498-86b0-fb2e0db8457a)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/26a6efad-a9a1-409d-a0ce-2bfcd8098b4e)
+
+
+<br>
+
+> 6.2. <em>Run the second example query from the task. What is the account type found?</em><br><a id='6.2'></a>
+>> <strong><code>User</code></strong><br>
+<p></p>
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/eff9e255-2dbb-45e4-a900-3fea581620a2)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/faceda52-d89c-4765-90ba-872ae9fed4ae)
+
+
+
 
 <br>
 <br>
@@ -175,6 +267,11 @@ Imagine being able to:<br>
 We discussed MS Sentinel as a robust SIEM solution that enables organizations to easily identify, investigate, and respond to security threats. KQL, on the other hand, is an effective method of querying and analyzing security logs. When combined, they form a holistic security operations tool for securing modern digital infrastructure.<br><br>
 
 As we continue to explore KQL, you'll discover its extensive capabilities for enhancing your organization's overall security posture.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a7e82d34-811a-4c79-b431-a40c2d16ed0a)
+
 
 <br><br>
 
@@ -197,3 +294,63 @@ As we continue to explore KQL, you'll discover its extensive capabilities for en
 
 <br>
 <br>
+
+
+![image](https://github.com/user-attachments/assets/41bfdcb5-84a6-4917-b83a-927a366e5027)
+
+![image](https://github.com/user-attachments/assets/2d89f2e2-d14f-48b6-8df1-ce665bb77227)
+
+
+
+<br>
+<br>
+
+<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Room Completed}}$$</h1>
+<br>
+<p align="center">
+<img width="900px" src="https://github.com/user-attachments/assets/84d2351e-244e-4d99-a488-23e91e69d25e"><br>
+<img width="900px" src="https://github.com/user-attachments/assets/a77f4f87-a61d-4d85-bb9b-8b5084b23104"></p>
+
+
+<br>
+
+<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{My TryHackMe Journey}}$$ </h1>
+<br>
+
+
+<div align="center">
+
+| Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     | Badges    |
+| :---------------: | :------: | :----------: | :----------: | :---------: | :--------: | :------  | :-------: | :-------: |
+|                   |          |    Global    |    Brazil    |    Global   |   Brazil   |          | Completed |           |
+|   April 15, 2025  |   344    |     286ᵗʰ    |      7ᵗʰ     |     241ˢᵗ   |     3ʳᵈ    |  93,845  |    666    |   59      |
+
+</div>
+
+<br>
+
+
+<p align="center"> Global All Time: 286ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/08d35cc9-0a61-4e09-bc2f-db36af44d7c2"> </p>
+
+<p align="center"> Brazil All Time: 7ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/33ca0edc-5342-46f0-a2a0-a16f2d95c3c40"> </p>
+
+<p align="center"> Global monthly: 241ˢᵗ<br><br><img width="900px" src="https://github.com/user-attachments/assets/fff190a0-2031-4c51-9763-40033b36cb71"> </p>
+
+<p align="center"> Brazil monthly: 3ʳᵈ<br><br><img width="900px" src="https://github.com/user-attachments/assets/16fdc401-5f06-48f4-8957-23dc06bc0644"> </p>
+
+
+<br>
+
+
+<p align="center">Weekly League: 9ᵗʰ Silver<br><br><img width="300px" src="https://github.com/user-attachments/assets/5f84cf43-d0aa-4888-bdde-9acb4b0cf627"> </p>
+
+<br>
+
+<h1 align="center">$$\textcolor{#3bd62d}{\textnormal{Thanks for coming!!!}}$$</h1>
+
+<p align="center">Follow me on <a href="https://medium.com/@RosanaFS">Medium</a>, here on <a href="https://github.com/RosanaFSS/TryHackMe">GitHub</a>, and on <a href="https://www.linkedin.com/in/rosanafssantos/">LinkedIN</a>.</p> 
+
+<br>
+
+<h1 align="center">$$\textcolor{#3bd62d}{\textnormal{Thank you}}$$</h1>
+<p align="center"><a href="https://tryhackme.com/p/tryhackme">tryhackme</a>, <a href="https://tryhackme.com/p/zieglers">zieglers</a> and <a href="https://tryhackme.com/p/huamanejard">huamanejard</a> for investing your time and effort to develop this challenge so that I could sharpen my skills!</p>
