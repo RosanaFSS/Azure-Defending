@@ -7,7 +7,7 @@
 <br>
 
 
-✅ &nbsp; 🔗 [MS Sentinel: Introduction](https://github.com/RosanaFSS/Defending-Azure/blob/Microsoft-Sentinel/Easy%20%F0%9F%94%97%20-%20MS%20Sentinel:%20Introduction.md)<br>
+✅ &nbsp; 🔗 [MS Sentinel : Introduction](https://github.com/RosanaFSS/Defending-Azure/blob/Microsoft-Sentinel/Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20:%20Introduction.md)<br>
 
 <br>
 
