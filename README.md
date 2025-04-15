@@ -14,10 +14,14 @@
 
 ✅ &nbsp; 🔗 [KQL (Kusto) : Introduction](https://github.com/RosanaFSS/Defending-Azure/blob/KQL/Easy%20%F0%9F%94%97%20-%20KQL%20(Kusto)%20:%20Introduction.md)<br>
 
+<br>
+
 <h2>Microsoft Defender XDR</h2>
 <p>Explore how Microsoft Defender XDR detects and responds to real-world attack techniques—from initial access to lateral movement—using live lab scenarios.</p>
 
 ✅ &nbsp; 🔗 [XDR : Introduction](https://github.com/RosanaFSS/Defending-Azure/blob/Microsoft-Defender-XDR/Easy%20%F0%9F%94%97%20-%20XDR%20%3A%20Introduction.md)<br>
+
+<br>
 
 <h2>Azure Security Challenges</h2>
 <p>Test your skills across red and blue team scenarios in Azure. This challenge-based module covers a mix of offensive and defensive tasks designed to sharpen your real-world Azure security expertise.</p>
