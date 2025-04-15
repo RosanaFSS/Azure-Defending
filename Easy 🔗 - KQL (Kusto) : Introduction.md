@@ -63,7 +63,7 @@ Imagine being able to:<br>
 
 <br>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 <br>
 
@@ -83,9 +83,54 @@ Imagine being able to:<br>
 <h2>Task 3 . What is KQL</h2>
 
 <br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 3.1. <em>What initial service was KQL created for?</em><br><a id='3.1'></a>
+>> <strong><code> Azure Data Explorer</code></strong><br>
+<p></p>
+
+<br>
+
+> 3.2. <em>Analyze the example query from the task. How many computers will the query return?</em><br><a id='3.2'></a>
+>> <strong><code>10</code></strong><br>
+<p></p>
+
+<br>
+
+> 3.3. <em>What table is the example query retrieving its data from?</em><br><a id='3.3'></a>
+>> <strong><code>Heartbeat</code></strong><br>
+<p></p>
+
+<br>
 <br>
 
 <h2>Task 4 . KQL Concepts in Microsoft Sentinel</h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 4.1. <em>What operator can be used to output results in graphical form?</em><br><a id='4.1'></a>
+>> <strong><code>render</code></strong><br>
+<p></p>
+
+<br>
+
+> 4.2. <em>What operator can be used to filter a specified table based on specified conditions?</em><br><a id='4.2'></a>
+>> <strong><code>where</code></strong><br>
+<p></p>
+
+<br>
+
+> 4.3. <em>What user account name was queried in our second example query above?</em><br><a id='4.3'></a>
+>> <strong><code>JBOX00$</code></strong><br>
+<p></p>
+
 
 <br>
 <br>
@@ -93,9 +138,31 @@ Imagine being able to:<br>
 <h2>Task 5 . KQL Statement Structure</h2>
 
 <br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 5.1. <em>What is the name of the table queried in our example query?</em><br><a id='5.1'></a>
+>> <strong><code>SecurityEvent</code></strong><br>
+<p></p>
+
+<br>
+
+> 5.2. <em>Analyze the example query from the task. What does the query aggregate per computer?</em><br><a id='5.2'></a>
+>> <strong><code>EventCount</code></strong><br>
+<p></p>
+
+<br>
 <br>
 
 <h2>Task 6 . KQL Use Cases</h2>
+
+<p>Congratulations! You did it. I am confident that you now understand the concept and structure of KQL queries. Let's explore real-world scenarios to see how KQL can support you, the security analyst, in gaining deeper insights into your security logs.</p>
+
+<br>
+
+<h3>Real-Life Example</h3>
 
 <br>
 <br>
