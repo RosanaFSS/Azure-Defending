@@ -236,7 +236,7 @@ We also discussed some key concepts of Microsoft Sentinel, how it works, and how
 <br>
 <p align="center">
 <img width="900px" src="https://github.com/user-attachments/assets/84d2351e-244e-4d99-a488-23e91e69d25e"><br>
-<img width="900px" src=https://github.com/user-attachments/assets/a77f4f87-a61d-4d85-bb9b-8b5084b23104"></p>
+<img width="900px" src="https://github.com/user-attachments/assets/a77f4f87-a61d-4d85-bb9b-8b5084b23104"></p>
 
 
 <br>
