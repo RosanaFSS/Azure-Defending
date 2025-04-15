@@ -121,7 +121,7 @@ This room will introduce you to Microsoft Defender XDR, Microsoft’s unified se
 
 <br>
 
-> 5.1. <emFrom which tab can security admins create custom roles for specific Microsoft Defender Products?</em><br><a id='5.1'></a>
+> 5.1. <em>From which tab can security admins create custom roles for specific Microsoft Defender Products?</em><br><a id='5.1'></a>
 >> <strong><code>Permissions</code></strong><br>
 <p></p>
 
