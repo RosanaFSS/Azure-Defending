@@ -24,10 +24,10 @@ As a Microsoft Security Analyst, it is essential to know how to connect log data
 <h3>Learning Objectives</h3>
 <p>In this room, we will look into the options for ingesting data and how to connect them so that Microsoft Sentinel starts to analyze and correlate logs. The main parts of this room will be:<br>
 
-- Data connectors<br>
-- Content hub solutions<br>
-- How to install Content hub solutions<br>
-- How to connect data connectors<br><br>
+- <code>Data connectors</code><br>
+- <code>Content hub</code> solutions<br>
+- How to <code>install</code> Content hub solutions<br>
+- How to <code>connect</code> data connectors<br><br>
 Let's dive in!</p>
 
 
