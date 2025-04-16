@@ -2,7 +2,7 @@
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{345}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.<br><br>
 <img width="300px" src="https://github.com/user-attachments/assets/9db76e67-9d64-4077-b56a-09c89a939ff8" alt="Your Image Badge"><br>
-<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{MS Sentinel: Introduction}}$$</h1>
+<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{MS Sentinel: Deploy}}$$</h1>
 <p align="center"><em>All the things you need for the initial Microsoft Sentinel deployment.</em>.<br>
 It is classified as an easy-level walkthrough.<br>
 It is a premium room: onlly for subscribers.<br>
