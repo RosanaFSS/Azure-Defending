@@ -16,6 +16,62 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 <h2>Task 1 . Deploy Microsoft Sentinel Challenge Workspace</h2>
 
+<p><code>Scenario</code>: You are a SOC Analyst and/or SIEM practitioner or maybe a Cloud Security Engineer. What we know is <code>incidents have been firing</code> in Microsoft Sentinel, and you are called to the task. Can you handle these incidents?<br><br>
+
+In this challenge, as a SOC Analyst, you will be investigating incidents and their corresponding analytics rules.<br><br>
+
+1. First, go ahead and join the lab to get the lab credentials.<br>
+
+<code>Cloud Details > Environment tab > Join Lab</code>.</p>
+
+<br>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/6c2943e4-dc5a-4607-b084-ccd16c4fbab0"><br>This image and all the theoretical content of the present article is TryHackMe´s property. </p>
+
+<br>
+
+<p>2. <code>Log in</code> to the Azure portal with the lab credentials.</p>
+
+<br>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/6dd84b36-867a-4d8a-838a-663c72ab9bc6"><br>This image and all the theoretical content of the present article is TryHackMe´s property. </p>
+
+>br>
+
+<p><code>Cloud Details > Credentials tab > Copy credentials > Open Lab</code><br>
+Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask later</code>".</p>
+
+<br>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/d5b3e9a7-bead-4c5a-914a-200e7b8f2a5d"><br>This image and all the theoretical content of the present article is TryHackMe´s property. </p>
+
+<br>
+
+<p>3. Navigate to the "<code>Resource Groups</code>" to confirm the lab resource group is ready. It should be named rg-04167802. i.e. rg-<labId></p>
+
+<br>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/64c1cfdc-2905-494b-a501-f722fcf755b1"><br>This image and all the theoretical content of the present article is TryHackMe´s property. </p>
+
+
+<br>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/519c3128-b50c-46cf-9e2e-4e3f4998eff5"><br>This image and all the theoretical content of the present article is TryHackMe´s property. </p>
+
+<br>
+
+<p>4. Navigate into the lab resource group, which will initially be empty. We will deploy lab assets shortly.</p>
+
+<br>
+
+<p align="center"><img width="400px" src="https://github.com/user-attachments/assets/800a242e-b578-4bfb-ab14-11c9bf651d12"><br>This image and all the theoretical content of the present article is TryHackMe´s property. </p>
+
+
+<br>
+
+
+<p>Now that we have verified the access to the Azure lab environment, next up, we will deploy the lab challenge logs.</p>
+
 
 <br>
 
