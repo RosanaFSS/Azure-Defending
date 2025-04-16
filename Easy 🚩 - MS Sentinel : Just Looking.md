@@ -8,8 +8,7 @@ It is classified as an easy walkthrough.<br>
 You can join it for 🆓 using your own virtual machine with openVPN or TryHackMe´s AttackBox if you are subscribed.<br>
 Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here</a>.</p>
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/252d4d4c-50f6-45dd-95ff-4fd9e2e03929"> </p>
-
+<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/7f1f1611-8eb8-43a4-b952-0e83b13bef4c"> </p>
 
 
 <br>
