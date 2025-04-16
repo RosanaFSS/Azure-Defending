@@ -299,9 +299,6 @@ Essentially, a LAW is an Azure resource where the logs are stored. </p>
 
 
 
-![image](https://github.com/user-attachments/assets/e5fcaee3-a6d6-4bcd-af39-0b8c54d92caf)
-
-
 <br>
 <br>
 
