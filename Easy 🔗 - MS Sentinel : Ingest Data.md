@@ -31,9 +31,6 @@ As a Microsoft Security Analyst, it is essential to know how to connect log data
 
 Let's dive in!</p>
 
-
-<br>
-
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
 <br>
@@ -47,6 +44,7 @@ Let's dive in!</p>
 
 <h2>Task 2 . Data Connectors Introduction</h2>
 <h3>Data Sources and Data Connectors</h3>
+<p>...</p>
 
 <br>
 
@@ -144,16 +142,26 @@ Let's dive in!</p>
 <br>
 
 > 5.1. <em>What Content source type is Microsoft Entra ID?</em><br><a id='5.1'></a>
->> <strong><code>Nay</code></strong><br>
+>> <strong><code>Solution</code></strong><br>
 <p></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8a5ed47d-92c6-4620-a541-3f2ba2cb7a6e)
+
 
 <br>
 
 > 5.2. <em>What category is the Microsoft Entra ID?</em><br><a id='5.2.'></a>
->> <strong><code>Log analytics workspace</code></strong><br>
+>> <strong><code>Identity, Security - Automation (SOAR)</code></strong><br>
 <p></p>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/29c87b79-0734-4fb3-8d05-f0c77216bf79)
+
+<br>
+
 
 > 5.3. <em>I have installed the Content hub solution Microsoft Entra ID.</em><br><a id='5.3.'></a>
 >> <strong><code>No answer needed</code></strong><br>
@@ -162,7 +170,24 @@ Let's dive in!</p>
 <br>
 
 
+![image](https://github.com/user-attachments/assets/6bfe0414-f27e-4bec-b88d-009f710c6282)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/774fe06c-bfa3-4fc1-8c4b-72b8f2a260a9)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/36f12199-185c-46c4-a30e-ff9d150fc74b)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f577c211-5589-4e57-859e-b2b21d26c5fa)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/2c4421e6-8a65-4a4e-bbf2-825e3a1e8388)
 
 <br>
 <br>
@@ -178,7 +203,7 @@ Let's dive in!</p>
 <br>
 
 > 6.1. <em>Where can you find all the details about a connector?</em><br><a id='6.1'></a>
->> <strong><code>Microsoft Sentinel Responder</code></strong><br>
+>> <strong><code>connector page</code></strong><br>
 <p></p>
 
 <br>
@@ -186,6 +211,16 @@ Let's dive in!</p>
 > 6.2. <em>In order to configure the Microsoft Entra ID data connector, what permissions are required on the Log Analytics workspace?</em>Hint : <em>Check the prerequisites on the connector page</em><br><a id='6.2.'></a>
 >> <strong><code>Microsoft Sentinel Contributor</code></strong><br>
 <p></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/61c34e57-0803-42b8-a6b6-d34141a4d1d9)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/26b903a2-031a-4869-8117-cd397aade976)
+
+
 
 <br>
 <br>
