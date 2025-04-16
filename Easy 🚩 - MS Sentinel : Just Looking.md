@@ -20,7 +20,7 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 In this challenge, as a SOC Analyst, you will be investigating incidents and their corresponding analytics rules.<br><br>
 
-1. First, go ahead and join the lab to get the lab credentials.<br>
+<p>1. First, go ahead and join the lab to get the lab credentials.<br>
 
 <code>Cloud Details > Environment tab > Join Lab</code>.</p>
 
