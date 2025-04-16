@@ -1,7 +1,7 @@
 <p align="center">April 15, 2025<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{344}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.<br><br>
-<img width="300px" src="https://github.com/user-attachments/assets/077c3a7e-c4d6-435d-a5a1-cb1cc233e817" alt="Your Image Badge"><br>
+<img width="300px" src="https://github.com/user-attachments/assets/fb249d63-2476-46b3-af34-3cde4eaa58b3" alt="Your Image Badge"><br>
 <img width="200px" src="https://github.com/user-attachments/assets/a831d20b-7256-48cf-8fe9-ad7c930d41e3"></p>
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{MS Sentinel : Just Looking}}$$</h1>
 <p align="center"><em>Microsoft Sentinel challenge for SOC analysts: incident investigation & threat hunting.</em>.<br>
@@ -10,6 +10,8 @@ You can join it for 🆓 using your own virtual machine with openVPN or TryHackM
 Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here</a>.</p>
 
 <p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/252d4d4c-50f6-45dd-95ff-4fd9e2e03929"> </p>
+
+
 
 <br>
 <br>
@@ -412,23 +414,22 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     | Badges    |
 | :---------------: | :------: | :----------: | :----------: | :---------: | :--------: | :------  | :-------: | :-------: |
 |                   |          |    Global    |    Brazil    |    Global   |   Brazil   |          | Completed |           |
-|   April 15, 2025  |   344    |     279ᵗʰ    |      6ᵗʰ     |     241ˢᵗ   |     2ⁿᵈ    |  94,505  |    666    |   59      |
+|   April 15, 2025  |   344    |     279ᵗʰ    |      6ᵗʰ     |     79ᵗʰ   |     2ⁿᵈ    |  94,655  |    666    |   59      |
 
 </div>
 
 <br>
 
-![image](https://github.com/user-attachments/assets/04a9e8d7-7404-4d56-82d0-a437793e1a12)
 
 
-<p align="center"> Global All Time: 279ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/06c4b800-b074-490a-a9b1-40ea694ad503"> </p>
+<p align="center"> Global All Time: 279ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/2a915ebf-9e17-4e9a-a9fd-3a914be00e41"> </p>
 
-<p align="center"> Brazil All Time: 6ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/d874adad-c932-47fd-96dd-aebb76822443"> </p>
+<p align="center"> Brazil All Time: 6ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/89c8467f-8501-487a-844e-c7e9e5c680e7"> </p>]
+"> </p>
 
-<p align="center"> Global monthly: 241ˢᵗ<br><br><img width="900px" src="https://github.com/user-attachments/assets/fff190a0-2031-4c51-9763-40033b36cb71"> </p>
+<p align="center"> Global monthly: 79ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/badc634d-ef7e-453b-a0c8-b85dd4ceff4a"> </p>
 
-<p align="center"> Brazil monthly: 2ⁿᵈ<br><br><img width="900px" src="https://github.com/user-attachments/assets/04a9e8d7-7404-4d56-82d0-a437793e1a12"> </p>
-
+<p align="center"> Brazil monthly: 2ⁿᵈ<br><br><img width="900px" src="https://github.com/user-attachments/assets/6d4813fc-ef6e-4f48-b43a-92174c928b33"> </p>
 
 <br>
 
