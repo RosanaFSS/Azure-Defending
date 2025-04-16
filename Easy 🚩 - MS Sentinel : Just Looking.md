@@ -216,7 +216,7 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 <br>
 
-> 5.1. <em>IP Geolocation (City)</em><br><a id='5.2'></a>
+> 5.2. <em>IP Geolocation (City)</em><br><a id='5.2'></a>
 >> <strong><code>Miami</code></strong><br>
 <p></p>
 
@@ -226,58 +226,132 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 <br>
 
-5.3. Disabled account?<br>
+> 5.3. <em>Disabled account?</em><br><a id='5.3'></a>
+>> <strong><code>_______________________</code></strong><br>
+<p></p>
 
-5.5. ResultType filter in rule?
-50057
+<br>
+
+> 5.4. <em>ResultType filter in rule?</em><br><a id='5.4'></a>
+>> <strong><code>50057</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/fc0c0eec-d3af-4135-8e06-650a19c1d12f)
 
 
-6.1.
+<br>
+<br>
 
-Tactic for this incident? Credential Access
+<h2>Task 6 . Incident #3: Explicit MFA Deny</h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 6.1. <em>Tactic for this incident?</em><br><a id='6.1.'></a>
+>> <strong><code>Credential Access</code></strong><br>
+<p></p>
+
+<br>
+
 
 ![image](https://github.com/user-attachments/assets/7d8d5a3a-b605-4297-8eb6-7c8f6fb92919)
 
 <br>
 
-How about its technique? Brute Force
+> 6.2. <em>How about its technique?</em><br><a id='6.2.'></a>
+>> <strong><code>Brute Force</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/fcc2f5eb-2fcb-487f-b299-c5c045d17cda)
 
 <br>
 
+> 6.3. <em>What's the error code when MFA is denied?</em><br><a id='6.3.'></a>
+>> <strong><code>__________________________</code></strong><br>
+<p></p>
 
+<br>
 
+> 6.4. <em>What's the name of the Access Policy that triggered this MFA during authentication?</em><br><a id='6.4.'></a>
+>> <strong><code>__________________________</code></strong><br>
+<p></p>
 
-How many entities 2
-![image](https://github.com/user-attachments/assets/7b659c19-e3a8-453e-b3ed-2d933693726d)
+<br>
 
-Which UPN escalated Marcus' privileges? breakglass@tryhackmelabs.onmicrosoft.com
+> 6.5. <em>Which authentication method was used for this MFA?</em><br><a id='6.5.'></a>
+>> <strong><code>__________________________</code></strong><br>
+<p></p>
+
+<br>
+
+> 6.6. <em>Browser version of the device initiated this authentication?</em><br><a id='6.6.'></a>
+>> <strong><code>__________________________</code></strong><br>
+<p></p>
+
+<br>
+
+> 6.7. <em>How many entities are mapped in this incident?</em><br><a id='6.7.'></a>
+>> <strong><code></code></strong><br>
+<p></p>
+
+<br>
+<br>
+
+<h2>Task 7 . Incident #4: Privileged Role Assigned Outside PIM</h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 7.1. <em>Tactic for this incident?</em><br><a id='7.1.'></a>
+>> <strong><code>breakglass@tryhackmelabs.onmicrosoft.com</code></strong><br>
+<p></p>
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/e38e425f-4284-433a-b1f7-a0e1b39379c7)
 
-Which privileged role has been assigned to Marcus?
-
-Which other user has been a target?
-
-usr-24052103@tryhackmelabs.onmicrosoft.com
-
-185.243.57.70
 <br>
+
+> 7.2. <em>Which privileged role has been assigned to Marcus?</em><br><a id='7.2.'></a>
+>> <strong><code>_________________________________</code></strong><br>
+<p></p>
+
+<br>
+
+> 7.3. <em>In which source table has this privilege escalation been logged?</em><br><a id='7.3.'></a>
+>> <strong><code>_________________________________</code></strong><br>
+<p></p>
+
+<br>
+
+> 7.4. <em>Which other user has been a target?</em><br><a id='7.4.'></a>
+>> <strong><code>usr-24052103@tryhackmelabs.onmicrosoft.com</code></strong><br>
+<p></p>
+
+<br>
+
 
 ![image](https://github.com/user-attachments/assets/95aaaed5-b2cf-46a7-b665-4b9c3f311588)
 
+<br>
 
-7.5. What's the initiating IP Address?<br>
+> 7.5. <em>What's the initiating IP Address?</em><br><a id='7.5.'></a>
+>> <strong><code>2.59.157.197</code></strong><br>
+<p></p>
 
-2.59.157.197
+<br>
 
 ![image](https://github.com/user-attachments/assets/91198674-dd43-4f48-b8cd-2073df031253)
-
-
-
-
 
 
 
