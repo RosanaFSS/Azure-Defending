@@ -296,7 +296,7 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 
 > 6.4. <em>What's the name of the Access Policy that triggered this MFA during authentication?</em><br><a id='6.4.'></a>
->> <strong><code>Mobile app notification</code></strong><br>
+>> <strong><code>Security Defaults</code></strong><br>
 <p></p>
 
 <br>
@@ -312,7 +312,7 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 
 > 6.5. <em>Which authentication method was used for this MFA?</em><br><a id='6.5.'></a>
->> <strong><code>__________________________</code></strong><br>
+>> <strong><code>Mobile app notification</code></strong><br>
 <p></p>
 
 <br>
@@ -323,10 +323,15 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 
 > 6.6. <em>Browser version of the device initiated this authentication?</em><br><a id='6.6.'></a>
->> <strong><code>Security Defaults</code></strong><br>
+>> <strong><code>125.0</code></strong><br>
 <p></p>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/6bab79e8-a567-4855-a64c-3bd7158ef8fb)
+
+<br>
+
 
 > 6.7. <em>How many entities are mapped in this incident?</em><br><a id='6.7.'></a>
 >> <strong><code></code></strong><br>
