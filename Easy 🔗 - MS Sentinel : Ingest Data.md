@@ -190,7 +190,7 @@ Let's dive in!</p>
 <br>
 <br>
 
-<h2>Task 6 . Conencting Data Connectors</h2>
+<h2>Task 6 . Connecting Data Connectors</h2>
 <p>...</p>
 
 
@@ -272,7 +272,7 @@ Let's dive in!</p>
 <br>
 
 > 7.3. <em>Let the log data flow!</em><br><a id='7.3.'></a>
->> <strong><code>No answer needed/code></strong><br>
+>> <strong><code>No answer needed</code></strong><br>
 <p></p>
 
 <br>
