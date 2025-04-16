@@ -14,12 +14,7 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 <br>
 <br>
 
-<h2>Task 1 . Introduction</h2>
-
-
-<h3>Prerequisites</h3>
-<p>- Having completed the Microsoft Sentinel module.</p>
-
+<h2>Task 1 . Deploy Microsoft Sentinel Challenge Workspace</h2>
 
 
 <br>
