@@ -397,7 +397,7 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 <br>
 
 
-<p align="center">Weekly League: 2ⁿᵈ Silver<br><br><img width="300px" src="image](https://github.com/user-attachments/assets/52593b8c-82af-4429-9c0a-89c96d29a23d"> </p>
+<p align="center">Weekly League: 2ⁿᵈ Silver<br><br><img width="300px" src="https://github.com/user-attachments/assets/52593b8c-82af-4429-9c0a-89c96d29a23d"> </p>
 
 <br>
 
