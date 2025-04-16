@@ -36,7 +36,7 @@ In this challenge, as a SOC Analyst, you will be investigating incidents and the
 
 <p align="center"><img width="400px" src="https://github.com/user-attachments/assets/6dd84b36-867a-4d8a-838a-663c72ab9bc6"><br>This image and all the theoretical content of the present article is TryHackMe´s property. </p>
 
->br>
+<br>
 
 <p><code>Cloud Details > Credentials tab > Copy credentials > Open Lab</code><br>
 Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask later</code>".</p>
