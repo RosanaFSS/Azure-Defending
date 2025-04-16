@@ -1,7 +1,7 @@
-<p align="center">April 15, 2025<br>
+<p align="center">April 16, 2025<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{345}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.<br><br>
-<img width="300px" src="https://github.com/user-attachments/assets/fb249d63-2476-46b3-af34-3cde4eaa58b3" alt="Your Image Badge"><br></p>
+<img width="300px" src="https://github.com/user-attachments/assets/24008640-30ce-48c6-9968-aed90bf36237" alt="Your Image Badge"><br></p>
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{MS Sentinel : Just Looking}}$$</h1>
 <p align="center"><em>Microsoft Sentinel challenge for SOC analysts: incident investigation & threat hunting.</em>.<br>
 It is classified as an easy walkthrough.<br>
@@ -9,8 +9,6 @@ You can join it for 🆓 using your own virtual machine with openVPN or TryHackM
 Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here</a>.</p>
 
 <p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/ccb2c3e6-3bcf-43fa-ab1a-b1ae428b1362"> </p>
-
-
 
 <br>
 <br>
@@ -472,8 +470,8 @@ Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Room Completed}}$$</h1>
 <br>
 <p align="center">
-<img width="900px" src="https://github.com/user-attachments/assets/b5390f06-3b94-439d-bd7e-5131cb3c4356"><br>
-<img width="900px" src="https://github.com/user-attachments/assets/4692708a-bc86-4e99-ae63-af77b85f12c3"></p>
+<img width="1000px" src="https://github.com/user-attachments/assets/b5390f06-3b94-439d-bd7e-5131cb3c4356"><br>
+<img width="1000px" src="https://github.com/user-attachments/assets/4692708a-bc86-4e99-ae63-af77b85f12c3"></p>
 
 
 <br>
@@ -487,27 +485,27 @@ Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     | Badges    |
 | :---------------: | :------: | :----------: | :----------: | :---------: | :--------: | :------  | :-------: | :-------: |
 |                   |          |    Global    |    Brazil    |    Global   |   Brazil   |          | Completed |           |
-|   April 15, 2025  |   344    |     279ᵗʰ    |      6ᵗʰ     |     79ᵗʰ   |     2ⁿᵈ    |  94,655  |    666    |   59      |
+|   April 16, 2025  |   345    |     279ᵗʰ    |      6ᵗʰ     |     89ᵗʰ    |     2ⁿᵈ    |  94,715  |    667    |   59      |
 
 </div>
 
 <br>
 
 
+<p align="center"> Global All Time: 279ᵗʰ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/d0e17e8e-4cee-4582-b7d1-db67191d673a"> </p>
 
-<p align="center"> Global All Time: 279ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/2a915ebf-9e17-4e9a-a9fd-3a914be00e41"> </p>
+<p align="center"> Brazil All Time:   6ᵗʰ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/7a7ef8c0-7481-4304-afce-b42f04c90910"> </p>
 
-<p align="center"> Brazil All Time: 6ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/89c8467f-8501-487a-844e-c7e9e5c680e7"> </p>]
-"> </p>
+<p align="center"> Global monthly:    89ᵗʰ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/26a4c0a0-4bdf-4d40-b74b-67e90ba1c678"> </p>
 
-<p align="center"> Global monthly: 79ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/badc634d-ef7e-453b-a0c8-b85dd4ceff4a"> </p>
-
-<p align="center"> Brazil monthly: 2ⁿᵈ<br><br><img width="900px" src="https://github.com/user-attachments/assets/6d4813fc-ef6e-4f48-b43a-92174c928b33"> </p>
+<p align="center"> Brazil monthly:     2ⁿᵈ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/dc173b3b-8cd2-4c94-bf2c-00d829901bb7"> </p>
 
 <br>
 
 
-<p align="center">Weekly League: 2ⁿᵈ Silver<br><br><img width="300px" src="https://github.com/user-attachments/assets/52593b8c-82af-4429-9c0a-89c96d29a23d"> </p>
+
+
+<p align="center">Weekly League:  3ʳᵈ Silver<br><br><img width="1000px" src="https://github.com/user-attachments/assets/921fbd06-a766-4fd5-8311-28db76975a10"> </p>
 
 <br>
 
