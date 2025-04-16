@@ -69,8 +69,6 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 <br>
 
-58
-
 ![image](https://github.com/user-attachments/assets/df73a454-ace2-419c-9300-cb65c1ced125)
 
 <br>
