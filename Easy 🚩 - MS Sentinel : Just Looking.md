@@ -153,7 +153,8 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 <br>
 
-![image](https://github.com/user-attachments/assets/1e142c86-abae-444d-a79c-67bd93a9aed7)
+![image](https://github.com/user-attachments/assets/74e7b106-d183-4eb8-86a8-d61863f78a21)
+
 
 <br>
 
@@ -227,10 +228,17 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 <br>
 
 > 5.3. <em>Disabled account?</em><br><a id='5.3'></a>
->> <strong><code>_______________________</code></strong><br>
+>> <strong><code>marcus@tryhackmelabs.onmicrosoft.com</code></strong><br>
 <p></p>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/1cdadd69-f996-48da-a446-419cc6f6ef30)
+
+<br>
+
+
+
 
 > 5.4. <em>ResultType filter in rule?</em><br><a id='5.4'></a>
 >> <strong><code>50057</code></strong><br>
