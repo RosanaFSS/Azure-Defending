@@ -85,7 +85,7 @@ Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask
 
 <br>
 
-<p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/8ee66ccc-ea65-493b-88dd-205702a20bc9">Rosana´s hands-on. </p>
+<p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/8ee66ccc-ea65-493b-88dd-205702a20bc9"><br>Rosana´s hands-on. </p>
 
 
 <br>
@@ -406,21 +406,44 @@ Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask
 
 <br>
 
-![image](https://github.com/user-attachments/assets/e38e425f-4284-433a-b1f7-a0e1b39379c7)
+![image](https://github.com/user-attachments/assets/dea48c19-6a96-4678-8efa-43754dbdd720)
+
 
 <br>
 
 > 7.2. <em>Which privileged role has been assigned to Marcus?</em><br><a id='7.2.'></a>
->> <strong><code>_________________________________</code></strong><br>
+>> <strong><code>Privileged Role Administrator</code></strong><br>
 <p></p>
 
 <br>
+
+<p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/b14b1082-fcb2-4585-880f-ceb6c9150e94"><br>Rosana´s hands-on. </p>
+
+
+<br>
+
+<br>
+
+<p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/5a9d42e5-7bd8-4e11-9790-d9b0d778378e"><br>Rosana´s hands-on. </p>
+
+<br>
+
+<p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/b606f5a7-20e5-48a2-a94c-802412c032a6"><br>Rosana´s hands-on. </p>
+
+
+
 
 > 7.3. <em>In which source table has this privilege escalation been logged?</em><br><a id='7.3.'></a>
->> <strong><code>_________________________________</code></strong><br>
+>> <strong><code>AuditLogs_CL</code></strong><br>
 <p></p>
 
 <br>
+
+<p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/e29e3316-da23-479e-8c4a-0654bcbd40ca"><br>Rosana´s hands-on. </p>
+
+
+<br>
+
 
 > 7.4. <em>Which other user has been a target?</em><br><a id='7.4.'></a>
 >> <strong><code>usr-24052103@tryhackmelabs.onmicrosoft.com</code></strong><br>
@@ -439,7 +462,8 @@ Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask
 
 <br>
 
-![image](https://github.com/user-attachments/assets/91198674-dd43-4f48-b8cd-2073df031253)
+![image](https://github.com/user-attachments/assets/8f4dbfa8-808d-42a0-9d07-c15efd395b00)
+
 
 
 
