@@ -233,11 +233,14 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 <br>
 
-![image](https://github.com/user-attachments/assets/1cdadd69-f996-48da-a446-419cc6f6ef30)
+![image](https://github.com/user-attachments/assets/e13df6a0-126b-4d56-9de3-a0dba0b98446)
 
 <br>
 
 
+![image](https://github.com/user-attachments/assets/1cdadd69-f996-48da-a446-419cc6f6ef30)
+
+<br>
 
 
 > 5.4. <em>ResultType filter in rule?</em><br><a id='5.4'></a>
@@ -282,16 +285,31 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 <br>
 
 > 6.3. <em>What's the error code when MFA is denied?</em><br><a id='6.3.'></a>
->> <strong><code>__________________________</code></strong><br>
+>> <strong><code>500121</code></strong><br>
 <p></p>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/57992448-c60f-4c73-aeca-036ade64bc16)
+
+<br>
+
 
 > 6.4. <em>What's the name of the Access Policy that triggered this MFA during authentication?</em><br><a id='6.4.'></a>
->> <strong><code>__________________________</code></strong><br>
+>> <strong><code>Mobile app notification</code></strong><br>
 <p></p>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/653afe54-8fca-4dc7-ac24-bd36300bdcae)
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/d7ff81d3-4f55-433e-ab91-152639e96808)
+
+
+
 
 > 6.5. <em>Which authentication method was used for this MFA?</em><br><a id='6.5.'></a>
 >> <strong><code>__________________________</code></strong><br>
@@ -299,8 +317,13 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 <br>
 
+![image](https://github.com/user-attachments/assets/14f91907-73b2-4b9f-9baa-8555d253863b)
+
+<br>
+
+
 > 6.6. <em>Browser version of the device initiated this authentication?</em><br><a id='6.6.'></a>
->> <strong><code>__________________________</code></strong><br>
+>> <strong><code>Security Defaults</code></strong><br>
 <p></p>
 
 <br>
