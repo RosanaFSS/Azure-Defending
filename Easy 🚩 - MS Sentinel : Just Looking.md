@@ -1,6 +1,6 @@
 <p align="center">April 15, 2025<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
-It´s part of my $$\textcolor{#FF69B4}{\textbf{344}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.<br><br>
+It´s part of my $$\textcolor{#FF69B4}{\textbf{345}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.<br><br>
 <img width="300px" src="https://github.com/user-attachments/assets/fb249d63-2476-46b3-af34-3cde4eaa58b3" alt="Your Image Badge"><br></p>
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{MS Sentinel : Just Looking}}$$</h1>
 <p align="center"><em>Microsoft Sentinel challenge for SOC analysts: incident investigation & threat hunting.</em>.<br>
