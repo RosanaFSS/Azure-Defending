@@ -1,16 +1,14 @@
 <p align="center">April 16, 2025<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{345}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.<br><br>
-<img width="300px" src="" alt="Your Image Badge"><br>
+<img width="300px" src="https://github.com/user-attachments/assets/3869172d-e860-4255-a71c-098f4067b5f0" alt="Your Image Badge"><br>
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{MS Sentinel: Ingest Data}}$$</h1>
 <p align="center"><em>No logs, no correlation, no analysis, no action. Where is my log data?</em>.<br>
 It is classified as an easy-level walkthrough.<br>
 It is a premium room: only for subscribers.<br>
 Can be accessed clicking  <a href="https://tryhackme.com/room/sentinelingestdata">here</a>.</p>
 
-
-
-<p align="center"> <img width="900px" src="https://tryhackme.com/room/sentinelingestdata"> </p>
+<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/6d1085bb-31ad-44a2-9d3a-906218ce2fb2"> </p>
 
 <br>
 <br>
@@ -227,7 +225,33 @@ Let's dive in!</p>
 
 <h2>Task 7 . Lab-03: Connect and Configure a Data Connector</h2>
 
+<p><code>Context</code>: Your company recently deployed Microsoft Sentinel and a Content hub solution is installed. A data connector is populated; however, it has not been connected yet.<br><br>
+
+<code>Role</code>: You are logged in as:<br>
+
+- Microsoft Sentinel Contributor<br>
+- Log Analytics Contributor</p>
+
+<br>
+
+
+<p><code>Lab scenario</code>: Following the installation of the Content hub solution, you are tasked with <code>configuring data connectors</code>.<br>
+
+- First, you will install another Content hub solution: <code>Threat Intelligence</code><br>
+- Then, you will connect the <code>data connector</code>
+- Finally, you will <code>review</code> the ingested <code>Threat Intelligence</code> data
+
+<br>
+
+<p>First, leave the lab we started in Task 5 by pressing the <code>Leave Lab</code> button on the <code></code>Cloud Details</code> pop-up from Task 5. Then, access your new lab by clicking the <code>Cloud Details</code> bbutton below in conjunction with the lab instructions from Task 4:</p>
+
+<p>[ Cloud Details ]</p>
+
+<br>
+
 <p>...</p>
+
+<br>
 
 <br>
 
@@ -236,12 +260,12 @@ Let's dive in!</p>
 <br>
 
 > 7.1. <em>What does the Microsoft Defender Threat Intelligence (MDTI) connector import?</em><br><a id='7.1'></a>
->> <strong><code>2</code></strong><br>
+>> <strong><code>Indicators of Compromise</code></strong><br>
 <p></p>
 
 <br>
 
-> 7.2. <em>Can threat indicators include IP addresses and domains? (Yea/Nay)</em><br><a id='7.2.'></a>
+> 7.2. <em>Can threat indicators include IP addresses and domains? (Yea/Nay)</em>Hint : <em>Check the MDTI description</em><br><a id='7.2.'></a>
 >> <strong><code>Yea</code></strong><br>
 <p></p>
 
@@ -252,11 +276,58 @@ Let's dive in!</p>
 <p></p>
 
 <br>
+
+![image](https://github.com/user-attachments/assets/92693447-b9fb-4b30-a0d5-3dfd51658ad2)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/845dd76a-50d6-4376-b623-aca3497eb392)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/59456487-a399-4b33-b2d1-63e8e18b3ed1)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/331a6116-439d-4e20-8480-07861cf6cedc)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/51ad0b50-ec3b-43cf-9d5e-2a2c1eb39854)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/17919877-9b87-4559-9437-e92ba697d107)
+
+<br>
+
+<p>It took about 10 min for log data start to flow.</p>
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b055093b-3a1c-4ef1-bcc4-4652947b275d)
+
+
+,br>
+
+
+![image](https://github.com/user-attachments/assets/ddc7747d-4caf-44da-ab93-ae14edd4261f)
+
+
+
+<br>
 <br>
 
 <h2>Task 8 . Conclusion</h2>
 
-<p>...</p>
+<p>After completing this room, you should better understand what a Content hub solution is and what Data connectors are. Now, you should be able to:<br>
+
+- Describe what Content hub solutions and Data Connectors are<br>
+- Install a Content hub solution<br>
+- Connect and configure a Data connector<br>
+- Confirm the connection results by reviewing ingested logs</p>
 
 <br>
 
@@ -275,8 +346,8 @@ Let's dive in!</p>
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Room Completed}}$$</h1>
 <br>
 <p align="center">
-<img width="900px" src="https://github.com/user-attachments/assets/59341d27-9f82-4826-9693-a98175cf2837"><br>
-<img width="900px" src="https://github.com/user-attachments/assets/c39d3657-f231-455c-8dda-8e42741a318c"></p>
+<img width="900px" src="https://github.com/user-attachments/assets/8c1c54e6-e641-426b-aca8-59a7ba96f1aa"><br>
+<img width="900px" src="https://github.com/user-attachments/assets/730af996-fb39-4eff-9e70-2215bb3296a4"></p>
 
 
 <br>
@@ -290,27 +361,27 @@ Let's dive in!</p>
 | Date              | Streak   | All Time     | All Time     | Monthly     | Monthly    | Points   | Rooms     | Badges    |
 | :---------------: | :------: | :----------: | :----------: | :---------: | :--------: | :------  | :-------: | :-------: |
 |                   |          |    Global    |    Brazil    |    Global   |   Brazil   |          | Completed |           |
-|   April 16, 2025  |   345    |     277ᵗʰ    |      6ᵗʰ     |     80ᵗʰ    |     2ⁿᵈ    |  94,835  |    668   |   59      |
+|   April 16, 2025  |   345    |     276ᵗʰ    |      6ᵗʰ     |     91ˢᵗ    |     2ⁿᵈ    |  94,923  |    669    |   59      |
 
 </div>
 
 <br>
 
 
-<p align="center"> Global All Time: 277ᵗʰ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/e5fcaee3-a6d6-4bcd-af39-0b8c54d92caf"> </p>
+<p align="center"> Global All Time:  276ᵗʰ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/12d61987-c3af-424b-b124-cccd3ec25f08"> </p>
 
-<p align="center"> Brazil All Time:   6ᵗʰ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/8d69d8df-e5a0-4d0d-ae51-6be78950c941"> </p>
+<p align="center"> Brazil All Time:   6ᵗʰ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/50bbec1c-6f15-4376-9d0e-8fc1e432e896"> </p>
 
-<p align="center"> Global monthly:   80ᵗʰ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/8ad28120-50fd-41f1-8971-0b706a3c41e2"> </p>
+<p align="center"> Global monthly:   91ˢᵗ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/e145f62f-543d-48cf-b52c-07ed2a3bdd67"> </p>
 
-<p align="center"> Brazil monthly:     2ⁿᵈ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/567a82aa-682a-4911-8877-d3c26a55a6dd"> </p>
+<p align="center"> Brazil monthly:     2ⁿᵈ<br><br><img width="1000px" src="https://github.com/user-attachments/assets/f825827b-8dda-4998-8d2d-1bc9676d5afd"> </p>
 
 
 
 <br>
 
 
-<p align="center">Weekly League: 2ⁿᵈ Silver<br><br><img width="1000px" src="https://github.com/user-attachments/assets/5e92f57e-f3f1-403a-b89b-1a9e6b5313ce"> </p>
+<p align="center">Weekly League: 3ʳᵈ Silver<br><br><img width="1000px" src="https://github.com/user-attachments/assets/7f3d7023-d23a-417f-af15-a3461f052737"> </p>
 
 <br>
 
