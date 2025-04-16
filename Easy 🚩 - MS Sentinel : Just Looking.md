@@ -34,9 +34,13 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 <br>
 
 
+![image](https://github.com/user-attachments/assets/8ee66ccc-ea65-493b-88dd-205702a20bc9)
 
+<br>
 
 ![image](https://github.com/user-attachments/assets/7623bba0-f9a1-4508-aa4a-b8c23575185c)
+
+
 
 <br>
 <br>
@@ -54,12 +58,6 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 <p></p>
 
 <br>
-
-![image](https://github.com/user-attachments/assets/8ee66ccc-ea65-493b-88dd-205702a20bc9)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/036581a7-2498-427e-bbe8-3be0e5a0e46d)
 
 <br>
 
