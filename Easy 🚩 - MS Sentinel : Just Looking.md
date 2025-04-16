@@ -54,21 +54,18 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 <br>
 
 > 2.1. <em>What's the row count for SigninLogs_CL table?</em><br><a id='2.1'></a>
->> <strong><code>___</code></strong><br>
+>> <strong><code>930</code></strong><br>
 <p></p>
 
 <br>
 
-<br>
-
-![image](https://github.com/user-attachments/assets/b4294cb8-eeff-4e21-a8a9-02ebe04f76e6)
-
-
-<br>
-
-930
-
 ![image](https://github.com/user-attachments/assets/4d6daf55-108a-4488-83d7-0f80b9765e58)
+
+<br>
+
+> 2.2. <em>What's the row count for AuditLogs_CL table?</em><br><a id='2.2'></a>
+>> <strong><code>58</code></strong><br>
+<p></p>
 
 <br>
 
@@ -76,86 +73,160 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 ![image](https://github.com/user-attachments/assets/df73a454-ace2-419c-9300-cb65c1ced125)
 
-2.3. Shift
+<br>
+
+> 2.3. <em>Key combination for running KQL queries in Query Editor?</em><br><a id='2.3'></a>
+>> <strong><code>Shift</code></strong><br>
+<p></p>
+
+<br>
+<br>
+
+<h2>Task 3 . Analytics</h2>
 
 <br>
 
-3.1.MITRE ATT&CK sub-technique for rule: Account Created and Deleted in Short Timeframe
-T1078.004
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 3.1. <em>MITRE ATT&CK sub-technique for rule: Account Created and Deleted in Short Timeframe.</em><br><a id='3.1'></a>
+>> <strong><code>T1078.004</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/6b746447-5a9d-4921-a9ac-ac9f3871f250)
 
-3.2. Rule frequency (in hrs) for rule: Attempts to sign in to disabled accounts
-1h
+<br>
+
+> 3.2. <em>Rule frequency (in hrs) for rule: Attempts to sign in to disabled accounts.</em><br><a id='3.2'></a>
+>> <strong><code>1</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/0eae357b-bcd1-4e3a-bd42-2484dfe88263)
 
 <br>
 
+> 3.3. <em>ResultType filter in rule: Explicit MFA Deny.</em><br><a id='3.3'></a>
+>> <strong><code>500121</code></strong><br>
+<p></p>
 
-3.3.ResultType filter in rule: Explicit MFA Deny<br>
-500121
+<br>
 
 ![image](https://github.com/user-attachments/assets/6374fce5-d8c4-40a2-9381-3c71761f20e1)
 
 <br>
-3.4. AppDisplayName filter in rule: Brute force attack against Azure Portal<br>
 
-Azure Portal
+> 3.4. <em>AppDisplayName filter in rule: Brute force attack against Azure Portal.</em><br><a id='3.4'></a>
+>> <strong><code>Azure Portal</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/ffdba478-a8d5-44d7-84b5-89a8514d75c8)
 
 <br>
 
-3.5. Category filter in rule: Privileged Role Assigned Outside PIM<br>
-RoleManagement
-
-![image](https://github.com/user-attachments/assets/08cd53e8-f2f8-4e72-9a1c-336396fc9b5c)
-
-
-
-
-4.1. Initial Access
-![image](https://github.com/user-attachments/assets/cecd0427-d24d-4875-9557-5500ed08bcf6)
-
+> 3.5. <em>Category filter in rule: Privileged Role Assigned Outside PIM.</em><br><a id='3.5'></a>
+>> <strong><code>RoleManagement</code></strong><br>
+<p></p>
 
 <br>
 
+![image](https://github.com/user-attachments/assets/08cd53e8-f2f8-4e72-9a1c-336396fc9b5c)
 
-<h1>Incident #1: Account Created and Deleted in Short Timeframe</h1>
+<br>
+<br>
 
-4.1.How many accounts were created and deleted in a short time frame?
-5
+<h2>Task 4 . Incident #1: Account Created and Deleted in Short Timeframe</h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 4.1. <em>How many accounts were created and deleted in a short time frame?</em><br><a id='4.1'></a>
+>> <strong><code>5</code></strong><br>
+<p></p>
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/1e142c86-abae-444d-a79c-67bd93a9aed7)
 
+<br>
 
-4.2.Which entity deleted these accounts? thmMultiTenantApp
+> 4.2. <em>Which entity deleted these accounts?</em><br><a id='4.2'></a>
+>> <strong><code>thmMultiTenantApp</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/74f3fb32-2b89-4e65-a222-de89a1385176)
 
-4.4. Workflow Id involved in this incident?
-b3f33fbcc5a541dc803a9b9bb7a5105f
+<br>
+
+> 4.3. <em>Tactic for this incident?</em><br><a id='4.3'></a>
+>> <strong><code>5</code></strong><br>
+<p></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/cecd0427-d24d-4875-9557-5500ed08bcf6)
+
+<br>
+
+> 4.4. <em>Workflow Id involved in this incident?</em><br><a id='4.4'></a>
+>> <strong><code>b3f33fbcc5a541dc803a9b9bb7a5105f</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/4caaadbe-2327-4348-874a-205ebf9415d5)
 
+<br>
 
-4.5. UPNSuffix 
-tryhackmelabs.onmicrosoft.com
+> 4.5. <em>UPNSuffix</em><br><a id='4.5'></a>
+>> <strong><code>tryhackmelabs.onmicrosoft.com</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/d71a27e0-138d-434b-8f48-14c91c3a6753)
 
+<br>
+<br>
 
-5.1. What's the IP Address involved in this incident?
-181.214.151.205
+<h2>Task 5 . Incident #2: Attempts to Sign in to Disabled Accounts</h2>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 5.1. <em>What's the IP Address involved in this incident?</em><br><a id='5.1'></a>
+>> <strong><code>181.214.151.205</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/131363a6-9413-45cf-8b6c-fde710b2b7a9)
 
 <br>
 
-5.2. IP Geolocation (City)
+> 5.1. <em>IP Geolocation (City)</em><br><a id='5.2'></a>
+>> <strong><code>Miami</code></strong><br>
+<p></p>
+
+<br>
+
 ![image](https://github.com/user-attachments/assets/12db6a8f-3ca6-43b0-96df-4b8e5f42161d)
 
-Miami
+<br>
 
 5.3. Disabled account?<br>
 
