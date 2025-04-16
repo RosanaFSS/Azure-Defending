@@ -1,4 +1,4 @@
-<p align="center">April 15, 2025<br>
+<p align="center">April 16, 2025<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{345}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.<br><br>
 <img width="300px" src="https://github.com/user-attachments/assets/9db76e67-9d64-4077-b56a-09c89a939ff8" alt="Your Image Badge"><br>
@@ -297,7 +297,7 @@ Essentially, a LAW is an Azure resource where the logs are stored. </p>
 <br>
 
 
-<p align="center">Weekly League: 2ⁿᵈ Silver<br><br><img width="300px" src="https://github.com/user-attachments/assets/5e92f57e-f3f1-403a-b89b-1a9e6b5313ce"> </p>
+<p align="center">Weekly League: 2ⁿᵈ Silver<br><br><img width="1000px" src="https://github.com/user-attachments/assets/5e92f57e-f3f1-403a-b89b-1a9e6b5313ce"> </p>
 
 <br>
 
