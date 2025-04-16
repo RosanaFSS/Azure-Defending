@@ -8,7 +8,8 @@ It is classified as an easy walkthrough.<br>
 You can join it for 🆓 using your own virtual machine with openVPN or TryHackMe´s AttackBox if you are subscribed.<br>
 Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here</a>.</p>
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/7f1f1611-8eb8-43a4-b952-0e83b13bef4c"> </p>
+<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/ccb2c3e6-3bcf-43fa-ab1a-b1ae428b1362"> </p>
+
 
 
 <br>
@@ -465,16 +466,14 @@ Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask
 ![image](https://github.com/user-attachments/assets/8f4dbfa8-808d-42a0-9d07-c15efd395b00)
 
 
-
-
 <br>
 <br>
 
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Room Completed}}$$</h1>
 <br>
 <p align="center">
-<img width="900px" src=""><br>
-<img width="900px" src=""></p>
+<img width="900px" src="https://github.com/user-attachments/assets/b5390f06-3b94-439d-bd7e-5131cb3c4356"><br>
+<img width="900px" src="https://github.com/user-attachments/assets/4692708a-bc86-4e99-ae63-af77b85f12c3"></p>
 
 
 <br>
@@ -519,4 +518,4 @@ Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask
 <br>
 
 <h1 align="center">$$\textcolor{#3bd62d}{\textnormal{Thank you}}$$</h1>
-<p align="center"><a href="https://tryhackme.com/p/tryhackme">tryhackme</a>, <a href="https://tryhackme.com/p/zieglers">zieglers</a> and <a href="https://tryhackme.com/p/huamanejard">huamanejard</a> for investing your time and effort to develop this challenge so that I could sharpen my skills!</p>
+<p align="center"><a href="https://tryhackme.com/p/tryhackme">tryhackme</a> and <a href="https://tryhackme.com/p/zieglers">zieglers</a> for investing your time and effort to develop this challenge so that I could sharpen my skills!</p>
