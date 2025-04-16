@@ -168,7 +168,7 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 <br>
 
 > 4.3. <em>Tactic for this incident?</em><br><a id='4.3'></a>
->> <strong><code>5</code></strong><br>
+>> <strong><code>Initial Access</code></strong><br>
 <p></p>
 
 <br>
