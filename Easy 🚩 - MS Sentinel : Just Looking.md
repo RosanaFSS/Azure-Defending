@@ -85,16 +85,16 @@ Note: If prompted for Microsoft Authenticator app registration, click "<code>Ask
 
 <br>
 
-![image](https://github.com/user-attachments/assets/ab57d530-ffd1-4926-b7b6-8b77d782d042)
+<p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/ab57d530-ffd1-4926-b7b6-8b77d782d04"><br>Rosana´s hands-on. </p>
 
 <br>
 
+<p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/8ee66ccc-ea65-493b-88dd-205702a20bc9"><br>Rosana´s hands-on. </p>
 
-![image](https://github.com/user-attachments/assets/8ee66ccc-ea65-493b-88dd-205702a20bc9)
 
 <br>
 
-![image](https://github.com/user-attachments/assets/7623bba0-f9a1-4508-aa4a-b8c23575185c)
+<p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/7623bba0-f9a1-4508-aa4a-b8c23575185c"><br>Rosana´s hands-on. </p>
 
 
 
