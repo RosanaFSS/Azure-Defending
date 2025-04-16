@@ -308,8 +308,6 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 ![image](https://github.com/user-attachments/assets/14f91907-73b2-4b9f-9baa-8555d253863b)
 
 
-![image](https://github.com/user-attachments/assets/d7ff81d3-4f55-433e-ab91-152639e96808)
-
 
 <br>
 
@@ -319,7 +317,7 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 
 <br>
 
-![image](https://github.com/user-attachments/assets/14f91907-73b2-4b9f-9baa-8555d253863b)
+![image](https://github.com/user-attachments/assets/d7ff81d3-4f55-433e-ab91-152639e96808)
 
 <br>
 
