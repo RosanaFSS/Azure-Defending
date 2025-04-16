@@ -173,6 +173,8 @@ Essentially, a LAW is an Azure resource where the logs are stored. </p>
 
 <p>...</p>
 
+<br>
+
 <h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
 
 <br>
@@ -235,7 +237,27 @@ Essentially, a LAW is an Azure resource where the logs are stored. </p>
 <p>...</p>
 
 
+<br>
 
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 6.1. <em>You are an incident responder who needs to manage incidents, such as assigning and dismissing them. Which role do you need?</em><br><a id='6.1'></a>
+>> <strong><code>Microsoft Sentinel Responder</code></strong><br>
+<p></p>
+
+<br>
+
+> 6.2. <em>You are a security engineer, and you are tasked with enabling pre-packaged Solutions from Content Hub. Which role do you need?</em><br><a id='6.2.'></a>
+>> <strong><code>Microsoft Sentinel Contributor</code></strong><br>
+<p></p>
+
+<br>
+
+> 6.3. <em>You are the CISO of the organization. You need visibility into Sentinel data, but you don't directly manage the Sentinel environment. Which role do you need?</em><br><a id='6.3.'></a>
+>> <strong><code>Microsoft Sentinel Reader</code></strong><br>
+<p></p>
 
 <br>
 <br>
@@ -243,6 +265,30 @@ Essentially, a LAW is an Azure resource where the logs are stored. </p>
 <h2>Task 7 . MS Sentinel Settings</h2>
 
 <p>...</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+
+<br>
+
+> 7.1. <em>How many sets of settings are there for Microsoft Sentinel?</em><br><a id='7.1'></a>
+>> <strong><code>2</code></strong><br>
+<p></p>
+
+<br>
+
+> 7.2. <em>Can Data Retention settings be found under Microsoft Sentinel workspace settings? (Yea/Nay)</em><br><a id='7.2.'></a>
+>> <strong><code>Yea</code></strong><br>
+<p></p>
+
+<br>
+
+> 7.3. <em>Under which subcategory of settings are the Data Retention settings tucked in?</em><br><a id='7.3.'></a>
+>> <strong><code>Usage and estimated costs</code></strong><br>
+<p></p>
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/e72309d5-6864-4328-9dd9-09d04fffad3b)
 
@@ -254,6 +300,24 @@ Essentially, a LAW is an Azure resource where the logs are stored. </p>
 
 
 ![image](https://github.com/user-attachments/assets/e5fcaee3-a6d6-4bcd-af39-0b8c54d92caf)
+
+
+<br>
+<br>
+
+<h2>Task 8 . Conclusion</h2>
+
+<p>...</p>
+
+<br>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 8.1. <em>Now that Microsoft Sentinel is up and running, I'm ready to ingest some data in the MS Sentinel: Ingest Data room.</em><br><a id='8.1'></a>
+>> <strong><code>No answer needed</code></strong><br>
+<p></p>
 
 
 <br>
