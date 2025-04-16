@@ -25,3 +25,7 @@
 
 <h2>Azure Security Challenges</h2>
 <p>Test your skills across red and blue team scenarios in Azure. This challenge-based module covers a mix of offensive and defensive tasks designed to sharpen your real-world Azure security expertise.</p>
+
+✅ &nbsp; 🚩 [MS Sentinel : Just Looking](https://github.com/RosanaFSS/Defending-Azure/blob/Azure-Security-Challenges/Easy%20%F0%9F%9A%A9%20-%20MS%20Sentinel%20%3A%20Just%20Looking.md)<br>
+
+<br>
