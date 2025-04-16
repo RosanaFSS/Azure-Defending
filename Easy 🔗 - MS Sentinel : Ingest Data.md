@@ -1,55 +1,44 @@
 <p align="center">April 16, 2025<br>
 Hey there, fellow lifelong learner! I´m <a href="https://www.linkedin.com/in/rosanafssantos/">Rosana</a>, and I’m genuinely excited to join you on this adventure.<br>
 It´s part of my $$\textcolor{#FF69B4}{\textbf{345}}$$-day-streak in  <a href="https://tryhackme.com">TryHackMe</a>.<br><br>
-<img width="300px" src="https://github.com/user-attachments/assets/9db76e67-9d64-4077-b56a-09c89a939ff8" alt="Your Image Badge"><br>
-<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{MS Sentinel: Introduction}}$$</h1>
-<p align="center"><em>All the things you need for the initial Microsoft Sentinel deployment.</em>.<br>
+<img width="300px" src="" alt="Your Image Badge"><br>
+<h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{MS Sentinel: Ingest Data}}$$</h1>
+<p align="center"><em>No logs, no correlation, no analysis, no action. Where is my log data?</em>.<br>
 It is classified as an easy-level walkthrough.<br>
-It is a premium room: onlly for subscribers.<br>
-Can be accessed clicking  <a href="https://tryhackme.com/room/sentineldeploy">here</a>.</p>
+It is a premium room: only for subscribers.<br>
+Can be accessed clicking  <a href="https://tryhackme.com/room/sentinelingestdata">here</a>.</p>
 
 
 
-<p align="center"> <img width="900px" src="https://github.com/user-attachments/assets/f9f20912-24d1-423a-95fa-2fce799ed960"> </p>
+<p align="center"> <img width="900px" src="https://tryhackme.com/room/sentinelingestdata"> </p>
 
 <br>
 <br>
 
-<h2>Task 1 . Getting Ready for Deployment</h2>
+<h2>Task 1 . Getting Ready To Ingest Data</h2>
 
-<h3>Azure Service vs. Azure Resource</h3>
+<p>In the previous MS Sentinel: Deploy room, we deployed an instance of Microsoft Sentinel. The next logical phase is to plan and execute the log data ingestion process. In Microsoft Sentinel, logs are sent to Log Analytics workspaces via data connectors.<br><br>
 
-<p>...</p>
+As a Microsoft Security Analyst, it is essential to know how to connect log data from different sources. The organization may have data from Microsoft and non-Microsoft resources as well as on-premise and network appliances.</p>
 
-<h3>Microsoft Sentinel Architecture</h3>
-<p>The core component of MS Sentinel architecture is Log Analytics workspaces (LAWs).<br><br>
-Essentially, a LAW is an Azure resource where the logs are stored. </p>
+<h3>Learning Objectives</h3>
+<p>In this room, we will look into the options for ingesting data and how to connect them so that Microsoft Sentinel starts to analyze and correlate logs. The main parts of this room will be:<br>
 
-<p>...</p>
+- Data connectors<br>
+- Content hub solutions<br>
+- How to install Content hub solutions<br>
+- How to connect data connectors<br><br>
+Let's dive in!</p>
 
-<p>When it comes to implementing Microsoft Sentinel, there are mainly three options:<br>
-
-- Single Tenant - Single Log Analytics workspace<br>
-- Single Tenant - Multiple Log Analytics workspaces (Regional)<br>
-- Multi-Tenant</p>
-
-<p>...</p>
-
-<p>To recap, on a high level, the following considerations will shape your Microsoft Sentinel architecture and deployment options:<br>
-
-- Tenancy<br>
-- Compliance<br>
-- Region<br>
-- Access</p>
 
 <br>
 
-<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the questions below}}$$ </h3>
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
 
 <br>
 
-> 1.1. <em>Is Microsoft Sentinel a resource or a service?</em><br><a id='1.1'></a>
->> <strong><code>service</code></strong><br>
+> 1.1. <em>What is used to ingest log data into Microsoft Sentinel?</em><br><a id='1.1'></a>
+>> <strong><code>Data connectors</code></strong><br>
 <p></p>
 
 <br>
