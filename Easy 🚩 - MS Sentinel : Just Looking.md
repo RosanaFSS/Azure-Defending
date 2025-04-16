@@ -358,28 +358,6 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/justlookingn">here
 <br>
 <br>
 
-
-
-
-![image](https://github.com/user-attachments/assets/eff9e255-2dbb-45e4-a900-3fea581620a2)
-
-<br>
-
-![image](https://github.com/user-attachments/assets/faceda52-d89c-4765-90ba-872ae9fed4ae)
-
-
-
-
-<br>
-<br>
-
-
-
-
-
-<br>
-<br>
-
 <h1 align="center"> $$\textcolor{#3bd62d}{\textnormal{Room Completed}}$$</h1>
 <br>
 <p align="center">
