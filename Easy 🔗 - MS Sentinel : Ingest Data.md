@@ -17,7 +17,7 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/sentinelingestdata
 
 <h2>Task 1 . Getting Ready To Ingest Data</h2>
 
-<p>In the previous MS Sentinel: Deploy room, we deployed an instance of Microsoft Sentinel. The next logical phase is to plan and execute the log data ingestion process. In Microsoft Sentinel, logs are sent to Log Analytics workspaces via data connectors.<br><br>
+<p>In the previous [MS Sentinel: Deploy](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Deploy.md) room, we deployed an instance of Microsoft Sentinel. The next logical phase is to plan and execute the log data ingestion process. In Microsoft Sentinel, logs are sent to Log Analytics workspaces via data connectors.<br><br>
 
 As a Microsoft Security Analyst, it is essential to know how to connect log data from different sources. The organization may have data from Microsoft and non-Microsoft resources as well as on-premise and network appliances.</p>
 
