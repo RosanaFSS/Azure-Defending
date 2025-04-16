@@ -19,7 +19,7 @@
 <h2>Microsoft Defender XDR</h2>
 <p>Explore how Microsoft Defender XDR detects and responds to real-world attack techniques—from initial access to lateral movement—using live lab scenarios.</p>
 
-✅ &nbsp; 🔗 [XDR : Introduction](https://github.com/RosanaFSS/Defending-Azure/blob/Microsoft-Defender-XDR/Easy%20%F0%9F%94%97%20-%20XDR%20%3A%20Introduction.md)<br>
+✅ &nbsp; 🔗 [XDR : Introduction](https://github.com/RosanaFSS/Defending-Azure/blob/Microsoft-Sentinel/Medium%20%F0%9F%94%97%20-%20MS%20Sentinel%20:%20Introduction.md)<br>
 
 <br>
 
