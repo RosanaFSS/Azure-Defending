@@ -263,7 +263,7 @@ We also discussed some key concepts of Microsoft Sentinel, how it works, and how
 
 <p align="center"> Global monthly: 239ᵗʰ<br><br><img width="900px" src="https://github.com/user-attachments/assets/269fc208-22e5-4d76-89da-e0e2347b2b99"> </p>
 
-<p align="center"> Brazil monthly: 3ʳᵈ<br><br><img width="900px" src="image](https://github.com/user-attachments/assets/cb6ff52e-643e-427e-96f5-ce6fd4cf79e3"> </p>
+<p align="center"> Brazil monthly: 3ʳᵈ<br><br><img width="900px" src="https://github.com/user-attachments/assets/cb6ff52e-643e-427e-96f5-ce6fd4cf79e3"> </p>
 
 
 <br>
