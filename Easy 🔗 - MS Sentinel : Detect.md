@@ -1,4 +1,6 @@
+<h1>MS Sentinel: Detect</h1>
 
+<h3>This challenge was removed from the TryHackMe platform. I wrote a full walkthrough on Medium, and I was very close to finishing it. However, I couldn't complete it because the Azure lab provided presented errors.</h3>
 ![image](https://github.com/user-attachments/assets/101f98b8-62fd-465d-b82b-0f5b9853144b)
 
 <br>
