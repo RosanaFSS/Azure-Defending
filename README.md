@@ -4,7 +4,7 @@
 
 <h2>1 . Microsoft Sentinel</h2>
 <p>Explore Microsoft Sentinel with an interactive guide on how to deploy, detect and investigate security threats.</p>
-<h5>***** &nbsp; &nbsp;  This challenge was removed from the TryHackMe platform.</h5>
+<h5>***** &nbsp; &nbsp;  Challenges removed from the TryHackMe platform.</h5>
 
 ✅ &nbsp; 🔗 [MS Sentinel : Introduction](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/1.%20Medium%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Introduction.md)<br>
 ✅ &nbsp; 🔗 [MS Sentinel : Deploy](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/2.%20Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Deploy.md)<br>
