@@ -340,14 +340,58 @@ With your KQL knowledge, you can do many other things, such as searching the ing
 <br>
 
 > 9.1. <em>What table is queried to search for installed software?</em><br><a id='9.1'></a>
->> <strong><code>Workspace functions</code></strong><br>
+>> <strong><code>ConfigurationData_CL</code></strong><br>
 <p></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d6009133-7ad8-41a6-94ae-674df2071db0)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a4b0285b-9da3-4040-9ecd-de2c671d32a4)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c5f72c45-67c0-44a8-9dc0-f1f2f8ee1537)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/cb919da9-cc96-46ac-a5ca-a54ea6c2070d)
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c4c4285a-466f-463c-bda3-ba2b6e54d750)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f54df3d1-d637-496c-a319-99efcfc92669)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/8844c400-954f-4b38-98cb-d81ae5dbc8de)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/57fa3c18-dbac-4955-bf11-7d4839d5f818)
+
+
 
 <br>
 
 > 9.2. <em>How many machines have TeamViewer installed on them?</em><br><a id='9.2'></a>
 >> <strong><code>Workspace functions</code></strong><br>
 <p></p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/1992de2e-e993-4f21-89bc-ea812b1bcde1)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/3e76f8ac-864a-43ef-b6e3-2f9c5e18dfbb)
 
 <br>
 
