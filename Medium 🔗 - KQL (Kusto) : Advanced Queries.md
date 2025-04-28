@@ -396,8 +396,22 @@ With your KQL knowledge, you can do many other things, such as searching the ing
 <br>
 
 > 9.3. <em>How many critical updates are found for JBOX00?</em>Hint : <em>Run Update_CL</em><br><a id='9.3'></a>
->> <strong><code>Workspace functions</code></strong><br>
+>> <strong><code>6</code></strong><br>
 <p></p>
+
+<br>
+
+Update_CL
+| where Computer == "JBOX00"
+| where MSRCSeverity_s == "Critical"
+| project TimeGenerated, Computer, Title_s, KBID_s, Classification_s, MSRCSeverity_s, PublishedDate_UTC__s, _ResourceId_s
+| sort by TimeGenerated desc
+
+<br>
+
+![image](https://github.com/user-attachments/assets/d3d5dd0f-6306-429d-8be0-5ed2297b3f45)
+
+
 
 <br>
 
@@ -407,11 +421,27 @@ With your KQL knowledge, you can do many other things, such as searching the ing
 
 <br>
 
+Update_CL
+| where OSType_s != "Linux"
+| project TimeGenerated, Computer, OSType_s
+| summarize count() by Computer
+| order by count_
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a2641d49-f189-4403-9b47-dce313a3288a)
+
+<br>
+
+
 > 9.5. <em>How many machines have Google Chrome installed?</em>Hint : <em>Use ConfigurationData_CL</em><br><a id='9.5'></a>
 >> <strong><code>Workspace functions</code></strong><br>
 <p></p>
 
 <br>
+
+
 
 
 
