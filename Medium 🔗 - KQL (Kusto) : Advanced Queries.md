@@ -181,4 +181,196 @@ Can be accessed clicking  <a href="https://tryhackme.com/room/kqlkustoadvancedqu
 ![image](https://github.com/user-attachments/assets/660decf4-9790-47db-81e5-93c1f11a87de)
 
 <br>
+<br>
+
+<h2>Task 6 . Using the Parse Operator</h2>
+<h3>Parse Operator</h3>
+<p>The parse operator evaluates a string expression and parses its value into one or more calculated columns. Unsuccessful parsed strings will result in null values in the calculated columns. It allows security admins to extract and parse specific information into separate columns for easier analysis and querying.<br><br>
+
+Other parse operators include:<br><br>
+
+<code>parse-kv</code><br><br>
+
+<code>parse-kv</code> is used to extract structured information from a string expression and represent it in a key/value format.<br><br>
+
+<code>parse-where</code><br><br>
+
+<code>parse-where</code> is used to evaluate a string expression and parses its value into one or more calculated columns. In this case, the output is only the successf</p>
+
+<h4>Syntax</h4>
+<p></p><code>Table | parse [kind=regex [flags=regex_flags] |simple|relaxed] Expression with * (StringConstant ColumnName [: ColumnType]) *...</code></p>
+
+<h4>Parameters Breakdown</h4>
+<p>[ ... ]</p>
+
+<br>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 6.1. <em>What column was parsed in our example? </em><br><a id='6.1'></a>
+>> <strong><code>EventData</code></strong><br>
+<p></p>
+
+<br>
+
+> 6.2. <em>In our full example query, how many columns are we projecting? </em><br><a id='6.2'></a>
+>> <strong><code>6</code></strong><br>
+<p></p>
+
+<br>
+<br>
+
+<h2>Task 7 . Lab Instructions</h2>
+<p>[ ... ]</p>
+
+<br>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 7.1. <em>Deployment ready!</em><br><a id='7.1'></a>
+>> <strong><code>No answer needed</code></strong><br>
+<p></p>
+
+<br>
+<br>
+
+<h2>Task 8 . Creating KQL Parsers</h2>
+
+<p>Notice we are querying a custom log here to perform this particular query. First, leave the lab we started in Task 2 by pressing the Leave Lab button on the Cloud Details pop-up from Task 2. Then, access your new lab by clicking the Cloud Details button below in conjunction with the lab instructions from Task 7. Lab deployment may take about 4 mins. You can check the deployment status via <code>Resource groups -> Select the available resource group -> Settings -> Deployments</code>.</p>
+
+<p>[  Cloud Details   ]</p>
+
+<p>Please make sure to have performed these actions on the Cloud Details pop-up:</p>
+
+![image](https://github.com/user-attachments/assets/158bd6a9-81a8-4c4d-998e-f580cd2afb20)
+
+
+<br>
+
+<p>Within the Azure portal:<br>
+
+- Search for Log Analytics workspaces in the top search bar and click it<br>
+- Select the available Log Analytics workspace<br>
+- Click on Logs on the left side menu and close the pop-up box to see the query editor</p>
+
+<h3>Parsers</h3>
+
+<p>Alongside <code>parse operators</code>, there are also parse functions called <code>parsers</code>, which define a virtual table with already parsed unstructured string fields. To create parsers, after typing in your query in the query editor window, press the <code>Save</code> button, select <code>Save as function</code> from the dropdown, enter the <code>Function name</code>, define a <codeLegacy category</code>, and click <code>Save</code>. To use the saved function, click on the <code>Functions</code> tab on the left, select the <code>workspace functionsSave</code> dropdown, and select the function to run it.</p>
+
+<h4>Example</h4>
+
+<p>The query below searches for all the security logs for the computer with the name DC for the past month and then saves it as a function that can be used later.</p>
+
+<p>[ ... ]</p>
+
+<br>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 8.1. <em>Under which dropdown can you find your saved function?</em>Hint : <em>Select the Functions tab!</em><br><a id='8.1'></a>
+>> <strong><code>Workspace functions</code></strong><br>
+<p></p>
+
+
+<br>
+<br>
+
+<h2>Task 9 . Lab-02: Discover</h2>
+<p>Context: You received news that TeamViewer may have been compromised. The organization currently does not support the use of TeamViewer, so the security team has been tasked with verifying that no computer has TeamViewer installed on your Azure VMs. As the available SOC engineer onsite, what can you do to find all affected machines?<br><br>
+
+Role: You are logged in as:<br>
+
+- Log Analytics Contributor<br>
+- Microsoft Sentinel Reader<br><br>
+
+Lab scenario: Your initial assignment is to:<br>
+
+1. First, verify which machines have TeamViewer installed and export them<br>
+2. Then, verify if the machines have an update pending. Also, export these results<br>
+3. Finally, recommend the next steps to the update management team<br><br>
+Continue with your lab credentials from <code>Task 8</code>.</p>
+
+<h3>Step 1: Log in To Azure Log Analytics Workspace</h3>
+
+<p>
+  
+- Log in to the Azure portal using your lab credentials.<br>
+- Search for Log Analytics workspaces in the top search bar and click it<br>
+- Select the available Log Analytics workspace<br>
+- Click on Logs on the left side menu and close the pop-up box to see the query editor</p>
+
+<h3>Step 2: Step 2:Run the Query To See Machines With TeamViewer Installed</h3>
+
+<p> Continue with the queries:<br>
+  
+- In the query editor, run the query ConfigurationData_CL to see all machines that have TeamViewer installed</p>
+
+<p>You can see all the machines with their respective software, but this can be overwhelming, as you will need to filter through manually. With the next query below, you will be able to streamline your search to the specific software quickly.</p>
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+<h3>Step 3: Verify Which Machines Are up to Date or Require An Update</h3>
+
+<p>- In the query editor, run the following query to see the machine's update status</p>
+
+<p> Recommendations<br><br>
+
+- Access the machines to uninstall TeamViewer. If you have a separate team in charge of device management, export and send the CVS document to the device management team so they can uninstall TeamViewer on affected machines<br>
+- Pass the exported CVS to the update management team and request that they patch the servers as soon as possible<br>
+- Check for all machines with pending updates using the update table<br>
+- Save the query as a function so you can run it quickly at any time<br><br>
+With your KQL knowledge, you can do many other things, such as searching the ingested logs for unusual network traffic, malicious access to sensitive files, suspicious PowerShell activities, and lateral movement across your infrastructure.</p>
+
+<br>
+
+
+<h3 align="left"> $$\textcolor{#f00c17}{\textnormal{Answer the question below}}$$ </h3>
+
+<br>
+
+> 9.1. <em>What table is queried to search for installed software?</em><br><a id='9.1'></a>
+>> <strong><code>Workspace functions</code></strong><br>
+<p></p>
+
+<br>
+
+> 9.2. <em>How many machines have TeamViewer installed on them?</em><br><a id='9.2'></a>
+>> <strong><code>Workspace functions</code></strong><br>
+<p></p>
+
+<br>
+
+> 9.3. <em>How many critical updates are found for JBOX00?</em>Hint : <em>Run Update_CL</em><br><a id='9.3'></a>
+>> <strong><code>Workspace functions</code></strong><br>
+<p></p>
+
+<br>
+
+> 9.4. <em>Search the Update_CL table. How many unique Linux machines can you find?</em>Hint : <em>Run Updated_CL and use the computer name!</em><br><a id='9.4'></a>
+>> <strong><code>Workspace functions</code></strong><br>
+<p></p>
+
+<br>
+
+> 9.5. <em>How many machines have Google Chrome installed?</em>Hint : <em>Use ConfigurationData_CL</em><br><a id='9.5'></a>
+>> <strong><code>Workspace functions</code></strong><br>
+<p></p>
+
+<br>
+
+
+
+
+
 
