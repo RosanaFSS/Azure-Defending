@@ -416,31 +416,46 @@ Update_CL
 <br>
 
 > 9.4. <em>Search the Update_CL table. How many unique Linux machines can you find?</em>Hint : <em>Run Updated_CL and use the computer name!</em><br><a id='9.4'></a>
->> <strong><code>Workspace functions</code></strong><br>
+>> <strong><code>4</code></strong><br>
 <p></p>
 
 <br>
 
 Update_CL
-| where OSType_s != "Linux"
-| project TimeGenerated, Computer, OSType_s
+| where OSType_s == "Linux"
 | summarize count() by Computer
-| order by count_
+
+<br>
+
+![image](https://github.com/user-attachments/assets/eeab754d-c06a-412e-888d-34fddfae7b8d)
 
 
 <br>
 
-![image](https://github.com/user-attachments/assets/a2641d49-f189-4403-9b47-dce313a3288a)
+![image](https://github.com/user-attachments/assets/0357f703-038d-4136-bf6f-22d2d2b00643)
 
 <br>
+
 
 
 > 9.5. <em>How many machines have Google Chrome installed?</em>Hint : <em>Use ConfigurationData_CL</em><br><a id='9.5'></a>
->> <strong><code>Workspace functions</code></strong><br>
+>> <strong><code>2</code></strong><br>
 <p></p>
 
 <br>
 
+ConfigurationData_CL
+| summarize count() by SoftwareName_s
+| top 5 by count_
+
+<br>
+
+
+![image](https://github.com/user-attachments/assets/73eda059-355e-4721-b68d-462d27416ab0)
+
+
+
+![image](https://github.com/user-attachments/assets/fdaef9fb-80f7-4eae-9710-5b4e695d88ad)
 
 
 
