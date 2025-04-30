@@ -5,7 +5,7 @@
 
 <br>
 
-<h2 align="center"> >1 . Microsoft Sentinel</h2>
+<h2 align="center">1 . Microsoft Sentinel</h2>
 <p  align="center">Explore Microsoft Sentinel with an interactive guide on how to deploy, detect and investigate security threats.</p>
 <p align="center">***** &nbsp; &nbsp;  Challenges removed from the TryHackMe platform.</p>
 
