@@ -24,10 +24,14 @@
 
 <br>
 
-<h2>3 . Microsoft Defender XDR</h2>
-<p>Explore how Microsoft Defender XDR detects and responds to real-world attack techniques—from initial access to lateral movement—using live lab scenarios.</p>
+<h2 align="center">3 . Microsoft Defender XDR</h2>
+<p  align="center">Explore how Microsoft Defender XDR detects and responds to real-world attack techniques—from initial access to lateral movement—using live lab scenarios.</p>
 
-✅ &nbsp; 🔗 [XDR : Introduction](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/Medium%20%F0%9F%94%97%20-%20XDR%20:%20Introduction.md)<br>
+✅ &nbsp;&nbsp; [XDR : Introduction](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/1%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Introduction.md)<br>
+⬛ &nbsp;&nbsp; [XDR : Evasion](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/2%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Evasion.md)<br>
+⬛ &nbsp;&nbsp; [XDR : Privilege Escalation](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/3%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Privilege%20Escalation.md)<br>
+⬛ &nbsp;&nbsp; [XDR : Lateral Movementlation](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/4%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Lateral%20Movementlation.md)<br>
+✅ &nbsp;&nbsp; [XDR : Execution](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/5%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Execution.md)<br>
 
 <br>
 
