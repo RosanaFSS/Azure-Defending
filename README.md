@@ -1,6 +1,6 @@
 <h1 align="center"> $$\textcolor{#39C2F0}{\textnormal{Defending Azure > Microsoft Defender XDR}}$$ </h1>
 
-<p align="center"> <img width="100px" src="https://github.com/user-attachments/assets/63b62e0e-f64d-422d-97b3-9d351f3c70d4"/><br><a href="https://azure.microsoft.com/en-us/blog/a-fluent-new-look-for-the-azure-icon/">Microsoft Azure</a></p>
+<h6 align="center"> <img width="100px" src="https://github.com/user-attachments/assets/63b62e0e-f64d-422d-97b3-9d351f3c70d4"/><br><a href="https://azure.microsoft.com/en-us/blog/a-fluent-new-look-for-the-azure-icon/">Microsoft Azure</a></h6>
 
 Explore how Microsoft Defender XDR detects and responds to real-world attack techniques—from initial access to lateral movement—using live lab scenarios.<br>
 
