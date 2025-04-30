@@ -1,4 +1,12 @@
 <h1 align="center"> $$\textcolor{#42A5F5}{\textnormal{Defending Azure > Microsoft Defender XDR}}$$ </h1>
 
-Explore how Microsoft Defender XDR detects and responds to real-world attack techniques—from initial access to lateral movement—using live lab scenarios.
+Explore how Microsoft Defender XDR detects and responds to real-world attack techniques—from initial access to lateral movement—using live lab scenarios.<br>
+
+✅ &nbsp;&nbsp; [CompTIA Pentest+](https://github.com/RosanaFSS/TryHackMe/blob/main/CompTIA%20Pentest%2B.md)<br>
+✅ &nbsp;&nbsp; [Jr Penetration Tester](https://github.com/RosanaFSS/TryHackMe/blob/main/Jr.%20Penetration%20Tester.md)<br>
+✅ &nbsp;&nbsp;[Web Fundamentals](https://github.com/RosanaFSS/TryHackMe/blob/main/Web%20Fundamentals.md)<br>
+✅ &nbsp;&nbsp; [Web Application Pentesting](https://github.com/RosanaFSS/TryHackMe/blob/main/Web%20Application%20Pentesting.md)<br>
+⬛ &nbsp;&nbsp;  [Red Teaming](https://github.com/RosanaFSS/TryHackMe/blob/main/Red%20Teaming.md) <em>in progress 90%</em><br>
+⬛ &nbsp;&nbsp;  [Offensive Pentesting](https://github.com/RosanaFSS/TryHackMe/blob/main/Offensive_Pentesting.md), <em>in progress 86%</em><br>
+
 
