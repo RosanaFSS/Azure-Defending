@@ -1,4 +1,4 @@
-<h1 align="center"> $$\textcolor{#39C2F0}{\textnormal{Defending Azure > KQL (Kusto Query Langugae}}$$ </h1>
+<h1 align="center"> $$\textcolor{#39C2F0}{\textnormal{Defending Azure > KQL (Kusto Query Language)}}$$ </h1>
 
 <h6 align="center"> <img width="100px" src="https://github.com/user-attachments/assets/63b62e0e-f64d-422d-97b3-9d351f3c70d4"/><br><a href="https://azure.microsoft.com/en-us/blog/a-fluent-new-look-for-the-azure-icon/">Microsoft Azure</a></h6>
 
