@@ -1,6 +1,6 @@
 <h1 align="center"> $$\textcolor{#39C2F0}{\textnormal{Defending Azure > Microsoft Defender XDR}}$$ </h1>
 
-<h2 align="center"> <img width="1000px" src="https://github.com/user-attachments/assets/63b62e0e-f64d-422d-97b3-9d351f3c70d4"/><br>[228/406](https://azure.microsoft.com/)</h2>
+<h2 align="center"> <img width="200px" src="https://github.com/user-attachments/assets/63b62e0e-f64d-422d-97b3-9d351f3c70d4"/><br>[228/406](https://azure.microsoft.com/)</h2>
 
 
 
