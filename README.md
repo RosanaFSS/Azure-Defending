@@ -2,11 +2,10 @@
 
 Explore how Microsoft Defender XDR detects and responds to real-world attack techniques—from initial access to lateral movement—using live lab scenarios.<br>
 
-✅ &nbsp;&nbsp; [CompTIA Pentest+](https://github.com/RosanaFSS/TryHackMe/blob/main/CompTIA%20Pentest%2B.md)<br>
-✅ &nbsp;&nbsp; [Jr Penetration Tester](https://github.com/RosanaFSS/TryHackMe/blob/main/Jr.%20Penetration%20Tester.md)<br>
-✅ &nbsp;&nbsp;[Web Fundamentals](https://github.com/RosanaFSS/TryHackMe/blob/main/Web%20Fundamentals.md)<br>
-✅ &nbsp;&nbsp; [Web Application Pentesting](https://github.com/RosanaFSS/TryHackMe/blob/main/Web%20Application%20Pentesting.md)<br>
-⬛ &nbsp;&nbsp;  [Red Teaming](https://github.com/RosanaFSS/TryHackMe/blob/main/Red%20Teaming.md) <em>in progress 90%</em><br>
-⬛ &nbsp;&nbsp;  [Offensive Pentesting](https://github.com/RosanaFSS/TryHackMe/blob/main/Offensive_Pentesting.md), <em>in progress 86%</em><br>
+✅ &nbsp;&nbsp; [XDR : Introduction](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/1%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Introduction.md)<br>
+⬛ &nbsp;&nbsp; [XDR : Evasion](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/2%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Evasion.md)<br>
+⬛ &nbsp;&nbsp; [XDR : Privilege Escalation](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/3%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Privilege%20Escalation.md)<br>
+⬛ &nbsp;&nbsp; [XDR : Lateral Movementlation](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/4%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Lateral%20Movementlation.md)<br>
+✅ &nbsp;&nbsp; [XDR : Execution](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/5%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Execution.md)<br>
 
 
