@@ -2,7 +2,9 @@
 
 <h6 align="center"> <img width="100px" src="https://github.com/user-attachments/assets/63b62e0e-f64d-422d-97b3-9d351f3c70d4"/><br><a href="https://azure.microsoft.com/en-us/blog/a-fluent-new-look-for-the-azure-icon/">Microsoft Azure</a></h6>
 
-<p align="center">Explore how Microsoft Defender XDR detects and responds to<br> real-world attack techniques—from initial access<br> to lateral movement—using live lab scenarios.</p>
+<p align="center">Explore how Microsoft Defender XDR detects<br>
+                  and responds to real-world attack techniques—from initial<br>
+                  access to lateral movement—using live lab scenarios.</p>
 
 ✅ &nbsp;&nbsp; [XDR : Introduction](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/1%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Introduction.md)<br>
 ⬛ &nbsp;&nbsp; [XDR : Evasion](https://github.com/RosanaFSS/Azure-Defending/blob/3.Microsoft-Defender-XDR/2%20.%20Medium%20%F0%9F%94%97%20-%20XDR%20%3A%20Evasion.md)<br>
