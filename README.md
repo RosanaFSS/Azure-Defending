@@ -35,9 +35,10 @@
 
 <br>
 
-<h2>4 . Azure Security Challenges</h2>
-<p>Test your skills across red and blue team scenarios in Azure. This challenge-based module covers a mix of offensive and defensive tasks designed to sharpen your real-world Azure security expertise.</p>
+<h2 align="center">4 . Azure Security Challenges</h2>
+<p  align="center">Test your skills across red and blue team scenarios in Azure. This challenge-based module covers a mix of offensive and defensive tasks designed to sharpen your real-world Azure security expertise.</p>
 
-✅ &nbsp; 🚩 [MS Sentinel : Just Looking](https://github.com/RosanaFSS/Azure-Defending/blob/4.Azure-Security-Challenges/Easy%20%F0%9F%9A%A9%20-%20MS%20Sentinel%20%3A%20Just%20Looking.md)<br>
+⬛ &nbsp;&nbsp; 🚩 [Azure: Can you GA?]([d](https://github.com/RosanaFSS/Azure-Defending/blob/4.Azure-Security-Challenges/1.%20Azure%20%3A%20Can%20you%20GA%3F.md))<br>
+✅ &nbsp;&nbsp; 🚩 [MS Sentinel : Just Looking](https://github.com/RosanaFSS/Azure-Defending/blob/4.Azure-Security-Challenges/2.%20Easy%20%F0%9F%9A%A9%20-%20MS%20Sentinel%20:%20Just%20Looking.md)<br>
 
 <br>
