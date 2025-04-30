@@ -15,10 +15,12 @@
 🌌 &nbsp;&nbsp; [MS Sentinel : Detect](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/4.%20Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Detect.md)  *****<br>
 🌌 &nbsp;&nbsp; [MS Sentinel : Investigate](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/5.%20Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Investigate.md)  *****<br>
 
-<h2>2 . KQL</h2>
-<p>Get hands-on with analysing security logs to detect and investigate threats efficiently using KQL.</p>
+<h2 align="center">2 . KQL</h2>
+<p  align="center">Get hands-on with analysing security logs to detect and investigate threats efficiently using KQL.</p>
 
-✅ &nbsp; 🔗 [KQL (Kusto) : Introduction](https://github.com/RosanaFSS/Defending-Azure/blob/KQL/Easy%20%F0%9F%94%97%20-%20KQL%20(Kusto)%20:%20Introduction.md)<br>
+✅ &nbsp;&nbsp; [KQL (Kusto) : Introduction](https://github.com/RosanaFSS/Azure-Defending/blob/2.KQL/1%20.%20Easy%20%F0%9F%94%97%20-%20KQL%20(Kusto)%20%3A%20Introduction.md)<br>
+✅ &nbsp;&nbsp; [KQL (Kusto): Basic Queries](https://github.com/RosanaFSS/Azure-Defending/blob/2.KQL/2%20.%20Easy%20%F0%9F%94%97%20-%20KQL%20(Kusto)%3A%20Basic%20Queries.md)<br>
+✅ &nbsp;&nbsp; [KQL (Kusto) : Advanced Queries](https://github.com/RosanaFSS/Azure-Defending/blob/2.KQL/3%20.%20Medium%20%F0%9F%94%97%20-%20KQL%20(Kusto)%20%3A%20Advanced%20Queries.md)<br>
 
 <br>
 
