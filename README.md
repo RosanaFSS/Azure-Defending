@@ -11,7 +11,7 @@
 
 ✅ &nbsp; 🔗 &nbsp; [MS Sentinel : Introduction](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/1.%20Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20:%20Introduction.md)<br>
 ✅ &nbsp; 🔗 &nbsp;[MS Sentinel : Deploy](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/2.%20Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Deploy.md)<br>
-✅&nbsp; 🔗 &nbsp; [MS Sentinel : Ingest Data](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/3.%20Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Ingest%20Data.md)<br>
+✅ &nbsp; 🔗 &nbsp; [MS Sentinel : Ingest Data](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/3.%20Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Ingest%20Data.md)<br>
 🌌 &nbsp; 🔗 &nbsp; [MS Sentinel : Detect](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/4.%20Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Detect.md)  *****<br>
 🌌 &nbsp; 🔗 &nbsp; [MS Sentinel : Investigate](https://github.com/RosanaFSS/Azure-Defending/blob/1.Microsoft-Sentinel/5.%20Easy%20%F0%9F%94%97%20-%20MS%20Sentinel%20%3A%20Investigate.md)  *****<br>
 
