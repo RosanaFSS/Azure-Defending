@@ -1,6 +1,8 @@
 <h2  align="center">Examine ransomware and extortion-based threats<br><a href="https://learn.microsoft.com/api/achievements/share/en-us/RosanaFSS/ZJEVRRP2?sharingId=932A0CC7C9841E29">Prevent ransomware and extortion-based attacks</a></h2>
 <p align="center"><img width="1000px" src="https://github.com/user-attachments/assets/ef873e3f-b06e-43a1-a670-52c1c43397db"><br>If you find it helpful, consider coming back for research.<br><p align="center"><a href="https://githubhttps://github.com/user-attachments/assets/f9d56f26-bf87-4309-b5d8-f98cbb0302b0com/RosanaFSS"><img src="https://img.shields.io/github/followers/RosanaFSS?label=Follow&style=for-the-badge&logo=github&color=24292e" alt="Follow Rosana on GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/COMPLETED-2026%2C%20MAY%2024-444444?style=for-the-badge&logo=calendar-check" alt="Completion Date"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/rosanafssantos/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a></p>
 
+<br>
+
 ```
 Because ransomware attacks are growing at a fast pace, it's crucial to understand the risks to your business, organization, or personal information. Any individual or organization, large or small, can be a victim as cyberattacks are becoming more sophisticated by the day.
 
